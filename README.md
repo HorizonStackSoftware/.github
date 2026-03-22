@@ -1,1 +1,1 @@
-# .github
+Horizon Stack Software
