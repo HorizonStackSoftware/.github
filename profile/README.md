@@ -1,11 +1,31 @@
+<div align="center">
+
 # Horizon Stack Software
-<!--
 
-**Here are some ideas to get you started:**
+**Technology that works for everybody.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[horizonstack.net](https://horizonstack.net) &nbsp;&middot;&nbsp; [contact@horizonstack.net](mailto:contact@horizonstack.net)
+
+</div>
+
+---
+
+We're a software company built around a single purpose: writing software designed to help *everyone*. From open source developers who need reliable resources, to businesses that need a full solution built from the ground up, we handle it all.
+
+## What We Do
+
+**For Businesses** &mdash; Custom software solutions built from the ground up, tailored to your specific needs.
+
+**For Open Source** &mdash; Projects and resources backed by a team that's in it for the long haul.
+
+**For Everyone** &mdash; Thoughtful software designed around the idea that technology should just work.
+
+## Our Mission
+
+We aim to contribute to the ease of using technology for everyone by creating systems that *just work*. Whether you're a small business in need of software, or an open source developer looking for a project with strong and reliable backing, we want to be there to help.
+
+---
+
+<div align="center">
+  <sub>Built with purpose. Designed for everyone.</sub>
+</div>
